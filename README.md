@@ -7,3 +7,4 @@ d)operators
 e)branching condition elif
 f)os modules
 g)exception handling
+h)oop concepts
